@@ -14,6 +14,8 @@ the controller is ATTINY85 microcontroller.
 
 ![image](https://user-images.githubusercontent.com/119271600/221427621-be2355c1-2edb-4f58-9f6f-472422bed69a.png)
 
+![image](https://user-images.githubusercontent.com/119271600/221428373-6a2e3581-7728-459b-9456-f47d1e4d7fcf.png)
+
 the code is based on timer interrupt which counts the 3 secondes and it starts counting just after reverse signal triggers.
 
 ![image](https://user-images.githubusercontent.com/119271600/221428006-4703710c-3ced-4dd2-9dce-0348250e39b6.png)
